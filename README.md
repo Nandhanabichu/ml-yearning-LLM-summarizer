@@ -24,10 +24,3 @@ This project implements an end-to-end pipeline to summarize chapters from the bo
 - PEFT (LoRA)
 - PyPDF2
 
-## ▶️ How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-2. Upload the Machine Learning Yearning PDF (not included due to copyright)
-   
-3. Run the notebook ml_yearning_llm_finetuning.ipynb
